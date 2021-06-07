@@ -18,11 +18,10 @@ const Home = () => {
   return (
     <div>
       <Head>
-        <title> Muhammed Mustafa Türkben </title>
+        <title>Muhammed Mustafa Türkben</title>
       </Head>
-      
-      <header></header>
-      
+
+  
       <main>
         <div className="clock">
           <p> <span> Tarih: </span>{getDate} </p>
